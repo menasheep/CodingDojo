@@ -1,0 +1,42 @@
+#container {
+    width: 800px;
+    height: 510px;
+    padding: 10px;
+    background: #cccccc;
+}
+
+#header {
+    width: 800px;
+    height: 100px;
+    display: block;
+    background: green;
+}
+
+#left-nav {
+    width: 150px;
+    height: 250px;
+    margin: 10px 0px 0px 0px;
+    background: blue;
+}
+
+#main-content {
+    width: 640px;
+    height: 400px;
+    margin: -250px 0px 0px 160px;
+    background: red;
+}
+
+.content-block {
+    width: 190px;
+    height: 190px;
+    display: inline-block;
+    margin: 10px -5px 0px 15px;
+    background: yellow;
+}
+
+#bucket {
+    width: 600px;
+    height: 90px;
+    margin: 16px 0px 0px 15px;
+    background: purple;
+}
