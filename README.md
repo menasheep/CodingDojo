@@ -1,2 +1,1 @@
-"# CodingDojo" 
 "#Mal's CodingDojo" 
