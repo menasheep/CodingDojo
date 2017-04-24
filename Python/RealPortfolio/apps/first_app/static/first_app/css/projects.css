@@ -1,0 +1,31 @@
+body {
+    width: 1100px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 35px 20px;
+    background-color: white;
+    background-image: url(../images/cool-pan.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 10px 0px 70px 0px;
+    font-size: 300%;
+}
+
+a {
+    margin: -105px 0px 0px 0px;
+    float: right;
+    text-decoration: none;
+    color: purple;
+    font-size: 150%;
+}
+
+p {
+    font-size: 125%;
+    text-align: left;
+    display: block;
+}

@@ -1,0 +1,38 @@
+body {
+    width: 1100px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 35px 20px;
+    background-color: black;
+    background-image: url(../images/blackgeo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 10px 0px 150px 0px;
+    font-size: 300%;
+    color: white;
+}
+
+a {
+    margin: -190px 0px 0px 0px;
+    float: right;
+    text-decoration: none;
+    color:teal;
+    font-size: 150%;
+}
+
+#container {
+    width: 645px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 125%;
+    text-align: center;
+    display: block;
+    color: white;
+}
