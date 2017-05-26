@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="eng">
+   <head>
+       <meta charset='UTF-8'>
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+       <link rel="stylesheet" type="text/css" href="/static/index.css" >
+       <title>Dojo Survey</title>
+   </head>
+   <body>
+       <h1>Welcome to the Dojo Survey!</h1>
+        <div id="survey">
+            <form action='/result' method='post'>
+                <fieldset>
+                    Your Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type='text' name='name'><br><br>
+                    Dojo Location: <input type='text' name='dojo_location'><br><br>
+                    Favorite language:&nbsp;&nbsp;&nbsp;&nbsp;<select name="favorite_language">
+                        <option value="HTML/CSS">HTML/CSS</option>
+                        <option value="Python">Python</option>
+                        <option value="Javascript">JavaScript</option>
+                        <option value="Swift">Swift</option>
+                        <option value="C#">C#</option>
+                        <option value="Ruby">Ruby</option>
+                        <option value="Other">Other</option>
+                    </select><br><br>
+                    Comments (optional): <textarea name="comments" rows="6" cols="50"> </textarea><br><br>
+                    <input type='submit' value='Submit!'> 
+                </fieldset>
+            </form>
+        </div>
+   </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    
+    </body>
+</html>
