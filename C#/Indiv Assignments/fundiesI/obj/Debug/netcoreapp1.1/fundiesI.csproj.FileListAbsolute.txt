@@ -1,0 +1,8 @@
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\bin\Debug\netcoreapp1.1\fundiesI.deps.json
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\bin\Debug\netcoreapp1.1\fundiesI.runtimeconfig.json
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\bin\Debug\netcoreapp1.1\fundiesI.runtimeconfig.dev.json
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\obj\Debug\netcoreapp1.1\fundiesI.AssemblyInfo.cs
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\bin\Debug\netcoreapp1.1\fundiesI.dll
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\bin\Debug\netcoreapp1.1\fundiesI.pdb
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\obj\Debug\netcoreapp1.1\fundiesI.dll
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\fundiesI\obj\Debug\netcoreapp1.1\fundiesI.pdb
