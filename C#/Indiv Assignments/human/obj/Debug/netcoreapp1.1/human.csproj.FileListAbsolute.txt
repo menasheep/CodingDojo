@@ -1,0 +1,4 @@
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\human\bin\Debug\netcoreapp1.1\human.deps.json
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\human\bin\Debug\netcoreapp1.1\human.runtimeconfig.json
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\human\bin\Debug\netcoreapp1.1\human.runtimeconfig.dev.json
+C:\Users\frump\Desktop\Coding Dojo\Assignments\C#\Indiv Assignments\human\obj\Debug\netcoreapp1.1\human.AssemblyInfo.cs
