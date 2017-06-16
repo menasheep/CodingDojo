@@ -1,0 +1,8 @@
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\bin\Debug\netcoreapp1.1\dojo_survey.deps.json
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\bin\Debug\netcoreapp1.1\dojo_survey.runtimeconfig.json
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\bin\Debug\netcoreapp1.1\dojo_survey.runtimeconfig.dev.json
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\bin\Debug\netcoreapp1.1\dojo_survey.dll
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\bin\Debug\netcoreapp1.1\dojo_survey.pdb
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\obj\Debug\netcoreapp1.1\dojo_survey.AssemblyInfo.cs
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\obj\Debug\netcoreapp1.1\dojo_survey.dll
+C:\Users\Mal\Desktop\Coding Dojo\Assignments\C#\Projects\dojo_survey\obj\Debug\netcoreapp1.1\dojo_survey.pdb
